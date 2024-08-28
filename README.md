@@ -1,7 +1,7 @@
 ## Good Day and Welcome to my GitHub ReadMe File
 
-# 🔭 I’m currently working on the course work for the Code:You class in the Great State of Kentucky (go BIG BLUE!).
-# 🌱 I’m currently learning how to work in GitHub.
+###  I’m currently working on the course work for the Code:You class in the Great State of Kentucky (go BIG BLUE!). 
+###  The current class work involves using GitHub and creating pull requests.
 <!--
 **Redsoxin7/Redsoxin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
